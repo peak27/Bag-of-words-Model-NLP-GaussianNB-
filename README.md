@@ -11,4 +11,4 @@ This repository contains the dataset of Customer Reviews from a restaurant in ".
     * Scikit-Learn
     * Matplotlib and Seaborn
     * NLTK (Natural Language Toolkit)
-  * R (For R implementation)
+  * R (For R implementation).
